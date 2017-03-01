@@ -9,7 +9,7 @@ an multi-function clock using LCD screen
 2. 定时音乐闹钟，带贪睡功能  
 3. 环境温度检测  
 4. 红外遥控与按键控制兼容  
-5. 自动校准
+5. 自动环境光校准
 
 将逐步支持：    
 
